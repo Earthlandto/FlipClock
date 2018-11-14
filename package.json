@@ -9,7 +9,7 @@
     ],
     "description": "A fully featured countdown clock.",
     "license": "MIT",
-    "main": "dist/flipclock.js",
+    "main": "dist/flipclock.min.js",
     "homepage": "http://flipclockjs.com/",
     "repository": {
         "type": "git",
